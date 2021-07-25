@@ -1,0 +1,8 @@
+/Results
+/Data
+/excel_residual
+/.pytest_cache
+/.idea
+/venv
+/__pycache__
+/funcs/__pycache__
